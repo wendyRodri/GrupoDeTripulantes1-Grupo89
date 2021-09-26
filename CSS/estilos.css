@@ -75,7 +75,7 @@ h3{
 .navegacion-principal{
     scroll-snap-align: center;
     scroll-snap-stop: always ;
-    display: flex;
+    iplay: flex;
     flex-direction: column;
     align-items: center;
 }
