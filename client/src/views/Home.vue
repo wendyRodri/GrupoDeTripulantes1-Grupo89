@@ -1,6 +1,19 @@
 <template>
   <BasicLayouts>
-    <h1>Últimos productos</h1>
+    <h1>BIENVENIDOS</h1>
+    
+
+    <router-link class="item" to="/">
+          <center>
+          <img
+            
+            src="../assets/img1.jpeg"
+            alt="Ecommerce"
+            
+          />
+          </center>
+        </router-link>
+
     <div class="ui grid">
       <div
         class="sixten wide mobile eight wide tablet four wide computer column"
